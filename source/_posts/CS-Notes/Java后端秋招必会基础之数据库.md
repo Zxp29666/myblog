@@ -1,6 +1,14 @@
 ---
 title: 'Java后端秋招必会基础之数据库'
 # sticky: 1 #文章置顶
+categories:
+- Java后端秋招资料
+tags:
+- Java
+- 后端
+- 数据库
+- Mysql
+
 ---
 
 # SQL 语法
