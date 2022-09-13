@@ -106,3 +106,9 @@ deploy:
   repo: 'https://github.com/Zxp29666/Zxp29666.github.io.git'
   # repo: 'https://gitee.com/zhu-xiaopeng/myblog.git'
   branch: main
+
+search:
+  path: search.xml
+  field: post
+  format: html 
+  limit: 10000

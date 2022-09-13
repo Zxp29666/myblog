@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'IBMPlexMono-Italic';
+    src: url('../diy-font/汉仪中隶书简.ttf');   
+}
+
+body {
+    font-family: 'IBMPlexMono-Italic';
+}
