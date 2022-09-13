@@ -4,15 +4,13 @@
 
 menu:
   主页: / || fas fa-home
-  Archives: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  链接||fas fa-list:
+  目录||fas fa-list:
+    归档: /archives/ || fas fa-archive
+    标签: /tags/ || fas fa-tags
+    分类: /categories/ || fas fa-folder-open
     友情链接: /link/ || fas fa-link
-    关于: /about/ || fas fa-heart
+  我的创作: /my_creation/ || fa-sharp fa-solid fa-camera
+  关于我: /about/ || fa-sharp fa-solid fa-face-kiss-wink-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -93,7 +91,7 @@ disable_top_img: false
 index_img: ./img/689.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: ./img/689.jpg
 
 # The banner image of archive page
 archive_img: "./img/791.jpg"  #archive首页背景图
